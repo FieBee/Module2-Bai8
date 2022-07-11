@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Bai8.iml" filepath="$PROJECT_DIR$/.idea/Bai8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Refactoring - TachBien/Refactoring - TachBien.iml" filepath="$PROJECT_DIR$/Refactoring - TachBien/Refactoring - TachBien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refactoring - TachPhuongTHuc/Refactoring - TachPhuongTHuc.iml" filepath="$PROJECT_DIR$/Refactoring - TachPhuongTHuc/Refactoring - TachPhuongTHuc.iml" />
     </modules>
   </component>
 </project>
